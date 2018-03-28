@@ -1,0 +1,2 @@
+C:\test\pdfsharp\BitFieldTest\BitFieldTest\bin\Debug\BitFieldTest.exe.config
+C:\test\pdfsharp\BitFieldTest\BitFieldTest\obj\Debug\BitFieldTest.csprojResolveAssemblyReference.cache
